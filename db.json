@@ -1,0 +1,24 @@
+{
+  "villages": [
+    {
+      "id": 1,
+      "name": "mgvimevi"
+    },
+    {
+      "id": 2,
+      "name": "khalifauri"
+    },
+    {
+      "id": 3,
+      "name": "tsirkvali"
+    },
+    {
+      "id": 4,
+      "name": "chalovani"
+    },
+    {
+      "name": "zodi",
+      "id": 5
+    }
+  ]
+}
